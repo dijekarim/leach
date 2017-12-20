@@ -1,0 +1,1 @@
+-O3 -march=native -mtune=native -DNDEBUG=1 -MMD -MP -MF .d    -isystem /Users/dijekarim/omnetpp-5.2/tools/macosx/include -Wno-deprecated-register -Wno-unused-function -fno-stack-protector  -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER -DWITH_OSG -DWITH_OSGEARTH   -I. -I/Users/dijekarim/omnetpp-5.2/include
